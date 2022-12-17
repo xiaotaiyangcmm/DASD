@@ -3,10 +3,14 @@ This repository contains the implementation for the paper:
 Miaomiao Cai, Mingxing Li, Zhiwei Xiong, Pengju Zhao, Enyao Li and Jiulai Tang, ["An Advanced Deep Learning Framework for Video-based Diagnosis of ASD"](https://link.springer.com/chapter/10.1007/978-3-031-16440-8_42)
 
 # Dataset
-### To protect the rights and privacy of our research participants, please do not repost our dataset
+### To protect the rights and privacy of our research participants, please do not repost our dataset.
 A total of 82 children (ASD: 57; TD: 25) finish the experiments with their parents at home, and they all consent to use their data for our research.
 All diagnostic labels (ASD or TD) are provided by the ADOS-2, which have been done independently of our experiments. 
 We provide the face features extracted by the Openface 2.0 toolbox.
+
+
+# Framework
+![framework](https://github.com/xiaotaiyangcmm/DASD/blob/master/figure/framework.png)
 
 # Prerequisites
 - numpy            1.17.4 
@@ -22,7 +26,6 @@ python python /code/main.py --mynum 100 --numsegments 4 --model_name attention
 ```
 #### Test stage
 - In `/code/test.py`, please change `rootpath`. 
-- For 2 gpus:
 ```sh
 python python /code/test.py --mynum 100 --numsegments 4 --model_name attention
 ```
