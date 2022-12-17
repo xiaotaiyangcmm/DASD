@@ -11,7 +11,7 @@ All diagnostic labels (ASD or TD) are provided by the ADOS-2, which have been do
 
 We provide the face features extracted by the Openface 2.0 toolbox.
 
-![dataset]https://github.com/xiaotaiyangcmm/DASD/blob/main/figure/dataset.png
+![dataset](https://github.com/xiaotaiyangcmm/DASD/blob/main/figure/dataset.png)
 
 # Framework
 ![framework](https://github.com/xiaotaiyangcmm/DASD/blob/main/figure/pipeline.png)
