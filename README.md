@@ -10,7 +10,7 @@ We provide the face features extracted by the Openface 2.0 toolbox.
 
 
 # Framework
-![framework](https://github.com/xiaotaiyangcmm/DASD/blob/master/figure/framework.png)
+![framework](https://github.com/xiaotaiyangcmm/DASD/blob/main/figure/framework.png)
 
 # Prerequisites
 - numpy            1.17.4 
