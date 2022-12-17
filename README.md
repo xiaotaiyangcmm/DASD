@@ -7,10 +7,10 @@ Miaomiao Cai, Mingxing Li, Zhiwei Xiong, Pengju Zhao, Enyao Li and Jiulai Tang, 
 A total of 82 children (ASD: 57; TD: 25) finish the experiments with their parents at home, and they all consent to use their data for our research.
 All diagnostic labels (ASD or TD) are provided by the ADOS-2, which have been done independently of our experiments. 
 We provide the face features extracted by the Openface 2.0 toolbox.
-
+![dataset]https://github.com/xiaotaiyangcmm/DASD/blob/main/figure/dataset.png
 
 # Framework
-![framework](https://github.com/xiaotaiyangcmm/DASD/blob/main/figure/framework.png)
+![framework](https://github.com/xiaotaiyangcmm/DASD/blob/main/figure/pipeline.png)
 
 # Prerequisites
 - numpy            1.17.4 
